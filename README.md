@@ -14,3 +14,21 @@ It is designed to help understand how token security works and to raise awarenes
 - You understand that using this for malicious or unauthorized activities is **illegal**.  
 
 If you do not agree with these terms, **DO NOT USE THIS TOOL**.
+
+## 🛠 Installation
+
+1. **Clone or Download the Repository**
+   ```git clone <https://github.com/lazysisu/token-grabber>
+   cd <token-grabber>```
+
+2. **Install Dependencies**
+   ```pip install -r requirements.txt```
+   
+3. **CONFIG**
+   # ADD YOUR WEBHOOK URL IN BOTH OF THE FILES
+
+4. **▶️ Running the Script**
+   ```python sisu.py```
+   ```python sisuold.py```
+
+
