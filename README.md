@@ -18,17 +18,20 @@ If you do not agree with these terms, **DO NOT USE THIS TOOL**.
 ## 🛠 Installation
 
 1. **Clone or Download the Repository**
-   ```git clone <https://github.com/lazysisu/token-grabber>```
+   ```bash
+   git clone <https://github.com/lazysisu/token-grabber>```
    cd <token-grabber>```
 
-2. **Install Dependencies**
-   ```pip install -r requirements.txt```
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt```
    
-3. **CONFIG**
+5. **CONFIG**
    # ADD YOUR WEBHOOK URL IN BOTH OF THE FILES
 
-4. **▶️ Running the Script**
-   ```python sisu.py```
-   ```python sisuold.py```
+6. **▶️ Running the Script**
+   ```bash
+   python sisu.py```
+   python sisuold.py```
 
 
