@@ -33,7 +33,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1387438745615204403/Qsd4r_XpkjhTPievoYEJs9GT2XBu2r6N6V2OtzsXBTUPfRp33WsUDd8oR7pgL6lNSbkO"  # redacted
+WEBHOOK_URL = ""  # redacted
 
 
 ssl._create_default_https_context = ssl._create_unverified_context
