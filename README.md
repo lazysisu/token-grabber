@@ -20,18 +20,18 @@ If you do not agree with these terms, **DO NOT USE THIS TOOL**.
 1. **Clone or Download the Repository**
    ```bash
    git clone <https://github.com/lazysisu/token-grabber>
-   cd token-grabber```
+   cd token-grabber
 
 3. **Install Dependencies**
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
    
 5. **CONFIG**
    # ADD YOUR WEBHOOK URL IN BOTH OF THE FILES
 
 6. **▶️ Running the Script**
    ```bash
-   python sisu.py```
-   python sisuold.py```
+   python sisu.py
+   python sisuold.py
 
 
